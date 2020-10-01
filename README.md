@@ -2,8 +2,8 @@
 Automate creating laravel proj and installing some dependencies with it.
 
 # REQUIREMENTS
-Composer
-Node JS
+1. Composer
+2. Node JS
 
 # WINDOWS OS
 # TO RUN THIS PROJECT
